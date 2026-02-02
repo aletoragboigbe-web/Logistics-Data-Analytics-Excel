@@ -1,10 +1,10 @@
-# Logistics-Data-Analytics-Excel
+# ✈️Logistics-Data-Analytics-Excel
 ## Order Fulfilment Performance Analysis and Forecasting Using Excel
 ### View the Dashboard interface below
 <img width="1492" height="951" alt="Screenshot 2025-11-28 114342" src="https://github.com/user-attachments/assets/65026c9d-852e-4614-b462-98d712940102" />
 <img width="1526" height="943" alt="Screenshot 2025-11-25 065833" src="https://github.com/user-attachments/assets/9e115230-4254-486b-a29b-c274a4b3f304" />
 
-## Table of Contents
+## 📖Table of Contents
 - [Project Overview](#project-overview)
 - [Business Problem](#business-problem)
 - [Tools Used](#tools-used)
